@@ -1,1 +1,3 @@
-# assets
+# Assets
+
+Asset files stay here.
